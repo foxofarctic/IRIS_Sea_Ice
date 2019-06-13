@@ -1,197 +1,197 @@
-Station,Ground Surface Conditions
-A19K,Tundra and fractured rock
-A21K,~ 18in snow atop tundra
-A22K,Tundra
+Station,Distance from BB casing:
+A19K,"N/A, 42"""
+A21K,
+A22K,170
 A36M,
-B18K,Tundra and fractured rock
-B20K,Tundra
-B21K,Sandy Vegetation
-B22K,Sandy Tundra
-C16K,"Fractured rock and vegetation, Cobble and vegetation"
-C17K,Cobble and vegetation
-C18K,"Fractured rock, vegetation, and soil"
-C19K,"Fractured sandstone, vegetation, and soil"
-C21K,vegetation and cobble
-C23K,Vegetation and cobble/soil matrix
-C24K,"Alluvial, cobbles, soil, and vegetation"
-C26K,"Cobbles, soil, and vegetation"
-C27K,"tundra, soil, fractured sandstone"
+B18K,"N/A, 162"""
+B20K,257
+B21K,"100, 257"
+B22K,204
+C16K," 156"""
+C17K," 245"""
+C18K,"228, 228”"
+C19K,160
+C21K,209
+C23K," 147"""
+C24K," 144"""
+C26K," 238"""
+C27K," 201"""
 C36M,
-D17K,Tundra
-D19K,Fractured rock
-D20K,vegetation and cobble
-D22K,cobble
-D23K,Vegetation with shallow soil and fractured bedrock.
-D24K,Gravel pad and the edge of the runway. Site was bulldozed and built up. Wide range of grain size from gravel to medium cobbles. Some standing water at the margin of the gravel pad and undisturbed gravel bar.
-D25K,"snow, vegetation, and soil"
-D27M,small tundra vegetation and gravels
-D28M,small tundra vegetation and gravels
-E17K,Weathered rock and lichen
-E18K,Fractured rock and lichen
-E19K,Bare soil and rock
-E20K,vegetation and cobble
-E21K,"Fractured rock, vegetation, and soil"
-E22K,"Vegetation, soil, and quartzite "
-E23K,"Vegetation, soil, and fractured slate"
+D17K," 177"""
+D19K,215
+D20K,243
+D22K,200
+D23K," 187"""
+D24K," 308"""
+D25K," 196"""
+D27M,"139"""
+D28M,"180"""
+E17K,"203"""
+E18K,"204"""
+E19K," 185"""
+E20K,144
+E21K," 194"""
+E22K," 144"""
+E23K, Forthcoming
 TOLK,
-E24K,"Vegetation, soil, and quartzite "
-E25K,"Back fill material. Gravel, soil, and cobbles."
-E27K,"Vegetation, fractured metamorphosed rocks"
-E28M,small tundra vegetation and gravels
-E29M,small tundra vegetation and gravels
-EPYK,Bedrock and covered by shallow soil
-F14K,Bare soil and rock
-F15K,Bare soil and rock
-F17K,Gravel and sand
-F18K,Vegetation and tussocks
-F19K,Vegetation and lichen over soil
-F20K,Bedrock
-F21K,Shallow vegetation on fractured bedrock
-F22K,Bedrock with very slight vegetative cover
-F24K,"Vegetation, soil, and metamorphic rocks "
-F25K,"Vegetation, soil, and gravel sized chert"
-F26K,"Vegetation, gravel and pebble metamorphosed rock"
-F28M,Crushed gravel fill
-F30M,shrubs and boulders
-F31M,Grass with exposed soil
-G15K,Bare soil and rock
-G16K,Bare soil and rock
-G17K,"Soil, vegetation, and cobble"
-G18K,Light vegetation and fractured rock
-G19K,Vegetation and weather granite
-G21K,"Shallow soil over bedrock, with vegetation"
-G22K,Gravel pad and debris
-G23K,Scattered rocks and minimal vegetation
-G24K,Vegetation and cobble sized basalt
-G25K,Vegetation and soil
-G26K,"Soil and vegetation, old forest fire area"
-G27K,"Soil and vegetation, old limestone gravel pad"
-G29M,"Fractured rock, burned out trees, and low vegetation"
-G30M,"Soil and sparse vegetation with some cobbles, Soil and sparse vegetation"
-G31M,shrubs and boulders
-H16K,Bare soil and rock
-H17K,Shallow soil and rock
-H18K,Vegetation and soil
-H19K,Vegetation and remnant burned trees
-H20K,Fractured rocks and lichen
-H21K,"tundra and permafrost, bedrock for last 8 inches of drilling"
-H22K,Vegetated tundra mat
-H23K,Vegetation and organic rich soil.
-H24K,Fractured bedrock and tundra
+E24K," 150"""
+E25K," 234"""
+E27K," 195"""
+E28M,"196"""
+E29M,"206"""
+EPYK," 287"""
+F14K," 112"""
+F15K," 113"""
+F17K," 170"""
+F18K," 216"""
+F19K," 176"""
+F20K," 192"""
+F21K," 258"""
+F22K," 310"""
+F24K," 144"""
+F25K," 195"""
+F26K," 176"""
+F28M,"130"""
+F30M,"89"""
+F31M," 144"""
+G15K," 120"""
+G16K," 108"""
+G17K," 126"""
+G18K," 217"""
+G19K," 217"""
+G21K," 288"""
+G22K," 278"""
+G23K," 147"""
+G24K," 212"""
+G25K," 235"""
+G26K," 193"""
+G27K," 156"""
+G29M,"108"""
+G30M," 183"""
+G31M,"85"""
+H16K," 125"""
+H17K," 186"""
+H18K," 227"""
+H19K," 183"""
+H20K," 180"""
+H21K,
+H22K," 135"""
+H23K,
+H24K,
 H25L,
-H27K,fractured bedrock and vegetation
-H29M,
-H31M,"frost shattered, platy black shale, weathered to buff on surface clasts."
-I17K,"Low lying, tundra"
-I20K,"Tussocks, water, nearby burned spruce"
-I21K,shallow layer of soil covering bedrock
-I23K,"Tan sandy soil with grass, low cranberry bushes, scrub and small trees. "
+H27K," 129"""
+H29M,"145"""
+H31M," 293"""
+I17K," 192"""
+I20K," 123"""
+I21K,
+I23K,
 POKR,
-I26K,"Vegetative root mat and soil with small grasses and brush, surrounded by trees, Shallow soil with small grasses, on fractured rock."
-I27K,"gravel and silt pad, vegetation, soil, and fractured bedrock"
+I26K,"124"""
+I27K," 168"""
 I28M,
-I29M,Gravel fill material
-I30M,frost shattered limestone
-J14K,Tundra
-J16K,Vegetation and soil
-J17K,Thick vegetation and soil
-J18K,"Vegetation, Fractured rock, and soil"
-J19K,Vegetation and soil
-J20K,"Muskeg tundra- hummocky moss and grass tufts. Uneven, soft surface."
-J25K,"Shallow soil with small grasses, on fractured granitic rock., Shallow soil with small grasses, blueberry shrubs, and trees in the distance, with weathered fractured, platy bedrock"
-J26L,
-J29N,"fluvial gravels and soils, adjacent to septic system and part of the leech field, so possible fill material bulldozed from elsewhere."
-J30M,frost shattered metavolcanic rock
-K13K,Tundra
-K15K,Fractured volcanic rock mixed with vegetation
-K17K,"Vegetation, cobble/boulder, and soil"
-K20K,"small open meadow on a mountain ridge, sparse grasses and tundra. fractured limestone bedrock at surface"
-K24K,Dry and consolidated moraine till
-K27K,hin grass and small bushes
-K29M,"Soil and sparse vegetation, quartz vein and gneiss"
-L14K,tundra
-L15K,tundra
-L16K,"Vegetation, fractured sedimentary rock"
-L17K,"Vegetation, gravel sized fractured sedimentary rock"
-L18K,"Vegetation, fractured sedimentary rock"
-L19K,"Unconsolidated material at surface, sparse vegetation at drill site because it was formerly part of an airstrip."
-L20K,"shallow layer of frost shattered limestone at the surface. Competent limestone bedrock at 12"". Sparse tundra mosses and lichen on the hilltop."
-L26K,"Recently cleared soil, grass, with gravel and small cobbles"
-L27K,"Grass, fireweed and small bushes"
+I29M,"132"""
+I30M," 175"""
+J14K," 179"""
+J16K," 82"""
+J17K," 118"""
+J18K,"220 """
+J19K,"186"""
+J20K,"16'5"""
+J25K,"120"""
+J26L,"140"""
+J29N, n/a
+J30M," 184"""
+K13K," 140"""
+K15K," 210"""
+K17K,"130"""
+K20K,"15'2"""
+K24K,"82"""
+K27K,
+K29M," 157"""
+L14K," 154"""
+L15K," 187"""
+L16K," 286"""
+L17K," 204"""
+L18K," 143"""
+L19K,"19' 10"""
+L20K,31' at 304 degreesTN
+L26K,
+L27K,
 L29M,
-M11K,"Low lying, saturated tundra"
-M13K,"Low lying, saturated tundra"
-M14K,Low lying vegetation
-M15K,Low lying vegetation
-M16K,"Vegetation, fractured sedimentary rock"
-M17K,Vegetation and fractured bedrock
-M18K,Vegetation and fractured glacial fluvial cobbles
-M19K,Thick tundra mat
-M20K,"Bedrock outcrop, thin patches of tundra and soil"
-M22K,"Mixed spruce/birch forest with a thin vegetative mat, followed by seasonally frozen soils, cobbles, then coarse to medium dry sands"
-M23K,Gravel fill material
-M24K,"Grass, scrub and low blueberry bushes"
+M11K," 120"""
+M13K," 176"""
+M14K," 157"""
+M15K," 158"""
+M16K," 249"""
+M17K," 173"""
+M18K," 225"""
+M19K,n/a
+M20K,"234"""
+M22K,
+M23K,"137"""
+M24K,
 HARP,
-M26K,Soil and some organics with glacial dropstones
-M27K,Patches of fractured rock and soil with very light vegetation/grasses
-M29M,Thin soil and vegetation on fractured bedrock
-M30M,"Shallow, organic soil"
-M31M,Gravely soil
-N14K,Vegetative mat
-N15K,Soil and rock
-N16K,Vegetation and fractured bedrock
-N17K,"Vegetation, fractured sedimentary rock"
-N18K,Patches of fractured rock and soil
-N19K,Fractured rock with very little soil or vegetation development
-N20K,Shallow soil with weathered granitic gravels
-N25K,"Metamorphic rock outcrop (schist) interspersed with broken rocks, thin soil and low tundra plants."
-N30M,Soil with cobbles and boulders
-N31M,Gravely soil
-N32M,Dry Soil
-O14K,"Vegetation, soils and gravels"
-O15K,small tundra vegetation and gravels
-O16K,"Exposed Cobbles, fractured bedrock, and vegetation., Exposed cobbles, fractured bedrock, and vegetation."
-O17K,Vegetation and fractured bedrock
-O18K,Patches of fractured rock and soil
-O19K,Vegetation and organic rich soil with 1.5' active layer.
-O20K,"Patches of fractured rock and soil, Patches of fractured rock and soil with grasses and limited shrubs. "
-O22K,"Soil with some gravel, grass"
-O28M,Fractured granitic bedrock
-O29M,Fractured bedrock
-O30N,Bedrock
-P08K,"Vegetation, gravel back fill"
-P16K,"exposed cobbles with layer of vegetation, Exposed cobbles with layer of vegetation"
-P17K,Silt and cobblestones
-P18K,Patches of fractured rock and soil
-P19K,
-P23K,"exposed bedrock, extremely weathered and fractured.  Abundant vegetation."
-P29M,Glacial outwash with trees and shrubs
-P30M,"Fractured bedrock, bedrock, and thin soil"
-P32M,Dry Soil with sparse vegetation.  Trees nearby
-P33M,"Shallow soil over bedrock, surrounded by lodgepole pines."
-Q16K,Soil and vegetation
-Q17K,Exposed cobbles with patchy vegetation
-Q18K,Exposed cobbles with patchy vegetation
-Q19K,"Shallow soil with small grasses and blueberry shrubs, with weathered fractured, platy bedrock"
-Q20K,"exposed bedrock, with shallow pockets of grass covered soil/gravel"
-Q23K,"Thick growth of salmonberry bushes, grass, soil and some rocks"
-Q32M,Bedrock outcrops or thin soil on bedrock
-R16K,Bare soil with gravels and cobbles
+M26K,"249"""
+M27K,"295"""
+M29M," 191"""
+M30M,"221"""
+M31M,"224"""
+N14K," 148"""
+N15K," 166"""
+N16K,"232”, 232"""
+N17K," 173"""
+N18K,"250"""
+N19K,"224"""
+N20K,"145"""
+N25K,
+N30M,"300"""
+N31M,"176"""
+N32M,"165"""
+O14K," 232"""
+O15K,"123"""
+O16K,"240”,  240"""
+O17K,"113"""
+O18K,"271"""
+O19K,"306"" (25.5')"
+O20K,"171"""
+O22K,
+O28M," 176"""
+O29M," 185"""
+O30N,"113"""
+P08K,"108"""
+P16K,"261"",  261"""
+P17K,"256"""
+P18K,"     282.5"""
+P19K,"240"""
+P23K,"324"""
+P29M," 172"""
+P30M,"188"""
+P32M,"50+"""
+P33M,"115"""
+Q16K," 196"""
+Q17K," 215"""
+Q18K," 169"""
+Q19K,"257"""
+Q20K,"132"""
+Q23K,
+Q32M," 266"""
+R16K," 213"""
 R17L,
-R18K,Vegetation and cobble/soil matrix
-R31K,Sand/soil matrix and heavy vegetation
-R32K,Vegetation and soil
-R33M,Thin soil on granitic bedrock
-S12K,fractured sandstone/ soil matrix
-S14K,volcanic and soil matrix
-S31K,Crushed gravel fill
-S32K,Thick organic mat with shrubs and large trees nearby
-S34M,Dry Soil
-T33K,Vegetation and soil
-T35M,"Surface gravel, bedrock"
-U33K,Vegetation and Bedrock
+R18K," 308"""
+R31K," N/A"""
+R32K," 60"""
+R33M," 263"""
+S12K," 240"""
+S14K," 142"""
+S31K," 202"""
+S32K," 56"""
+S34M,"175"""
+T33K," 87"""
+T35M,"96"""
+U33K," 108"""
 U35K,
-V35K,Vegetation and soil
-L22K,"Soil, grass and some rocks"
+V35K," 195"""
+L22K,
 S15K,
 S19K,

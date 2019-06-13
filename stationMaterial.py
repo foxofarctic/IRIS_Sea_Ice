@@ -1,7 +1,7 @@
 import csv
 
 # Searches through the AlaskaTA construction reports text file
-# for ground surface conditions and prints output to csvfile test.csv
+# for bottom material and prints output to csvfile test.csv
 def main():
     namesFile = 'AlaskaTA-StationList.csv' # file of names
     fileName = 'AlaskaTA-ConstructionReports.txt' # text file of reports
@@ -15,11 +15,19 @@ def main():
     for block in blockList:
         station = validBlock(block, names)
         if(station is not None): # checks whether block is for TA station
-            ind = block.find('Ground Surface Conditions:')
-            end = block.find('\n', ind)
+            ind = block.find('Drilling Log:')
+            end = block.find('Sample Collected:', ind)
             if(ind != -1):
-                ind += len('Ground Surface Conditions:') + 1
-                myDict[station].add(block[ind:end]) # adds condition entry
+                ind += len('Drilling Log:') + 1
+                if( end == -1): end = ind + 500
+                log = block[ind:end]
+                indTD = log.find('TD = ')
+                if(indTD == -1 ):
+                    indTD = log.find('TD')
+                else:
+                    indTD += 5
+                endTD = log.find('\n',indTD)
+                myDict[station].add(log[(indTD):endTD]) # adds condition entry
     makeCSV(myDict) # writes answers to csv file
 
 # makes blocks out of text file
@@ -62,11 +70,11 @@ def createDict(names):
 # Creates csv files with relevant columns/ answers
 def makeCSV(dict):
     with open('output.csv', 'w') as csvfile:
-        fieldnames = ['Station', 'Ground Surface Conditions']
+        fieldnames = ['Station', 'Drill Log']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         for key in dict.keys():
-            writer.writerow({'Station': key, 'Ground Surface Conditions': (", ".join(dict[key]))})
+            writer.writerow({'Station': key, 'Drill Log': (", ".join(dict[key]))})
 
 # runs main
 main()
